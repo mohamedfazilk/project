@@ -1,0 +1,149 @@
+.container{
+
+width:900px;
+height:900px;
+background-color:darkgrey;
+
+}
+
+.logopic{
+
+  margin-top:30px;
+  margin-left:-500px;
+
+}
+
+.dot {
+  height: 70px;
+  width: 70px;
+  background-color: #bbb;
+  border-radius: 70%;
+  display: inline-block;
+  margin-left:850px;
+}
+.buttons{
+       margin-left:930px;
+       width:100px;
+      margin-top: 65px;
+
+}
+.Signin{
+    position: relative;
+    align-items: center;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    min-width: 10rem;
+    padding: 0 1.2re;
+    justify-content: center;
+    user-select: none;
+    vertical-align: bottom;
+    white-space: nowrap;
+    height: 4rem;
+    margin-left: -137px;
+    right: 18px;
+    color: #0f7c90;
+    background-color: transparent;
+    border: 1px solid #2896a9;
+     font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.4rem;
+    font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+
+    box-sizing: border-box;
+}
+.Signup{
+
+   position: relative;
+    align-items: center;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    min-width: 10rem;
+    padding: 0 1.2re;
+    justify-content: center;
+    user-select: none;
+    vertical-align: bottom;
+    white-space: nowrap;
+    background-color: #0f7c90;
+    height: 4rem;
+    left: 10px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.4rem;
+    font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    color:white;
+    box-sizing: border-box;
+
+}
+
+.searchTerm{
+ margin-left: 381px;
+ margin-top: 103px;
+ width:437px;
+ height: 51px;
+ border-radius: 32px 32px 32px 32px;
+ text-align: center;
+
+
+}
+.searchbar{
+ background-color:#2a988e;
+ width: 1170px;
+ margin-top: 16px;
+ margin-left: -14px;
+ height: 350px;
+
+}
+.para{
+margin-left: 183px;
+margin-top: 30px;
+}
+
+.a{
+
+background-color:#1e3c72;
+}
+
+.footer{
+
+   left: 0;
+   bottom: 0;
+   width: 934px;
+   height:70px;
+   background-color: #1c2b1deb;
+   color: white;
+   text-align: center;
+    height:332px;
+    width:1171px;
+    margin-left: -14px;
+}
+.container1{
+ height:240px;
+ width:899px;
+
+}
+
+.foot{
+ margin-top:75px;
+ margin-left:75px
+
+}
+.footpara{
+margin-top:62px;
+margin-left:-549px;
+
+}
+.con{
+    margin-top: -12px;
+    font-weight: 400;
+    line-height: 1.1;
+    }
+.numb{
+margin-top:22px;
+
+}
